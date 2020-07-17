@@ -5,13 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+
 # Site Settings
 locale                   : "en-US"
-title                    : "Craig Willis / Bio "
+title                    : "Craig Willis"
 title_separator          : "-"
 name                     : &name "Craig Willis"
-description              : &description "Sr. Research Programmer, National Center for Supercomputing Applications; Doctoral candidate, University of Illinois at Urbana-Champaign"
-url                      : https://craig-willis.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description              : &description "Research Programmer, School of Information Sciences; University of Illinois at Urbana-Champaign"
+#url                      : https://craig-willis.github.io 
+url: http://localhost:4000
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "craig-willis/craig-willis.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -81,12 +83,11 @@ analytics:
 # Site Author
 author:
   name             : "Craig Willis"
-  avatar           : "profile.jpg"
-  bio              : "Sr. Research Programmer, National Center for Supercomputing Applications; Doctoral candidate, University of Illinois at Urbana-Champaign"
-  location         : "North Carolina"
-  employer         : "University of Illinois at Urbana-Champaign"
+  avatar           : # "profile.jpg"
+  bio              : "Research Programmer and Doctoral candidate; School of Information Sciences;  University of Illinois at Urbana-Champaign"
+  location         : 
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=CyPstrkAAAAJ&hl=en"
-  email            :
   github           : "craig-willis"
   orcid            : "http://orcid.org/0000-0002-6148-7196"
 
