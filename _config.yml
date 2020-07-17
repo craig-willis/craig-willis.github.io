@@ -12,8 +12,7 @@ title                    : "Craig Willis"
 title_separator          : "-"
 name                     : &name "Craig Willis"
 description              : &description "Research Programmer, School of Information Sciences; University of Illinois at Urbana-Champaign"
-#url                      : https://craig-willis.github.io 
-url: http://localhost:4000
+url                      : https://craig-willis.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "craig-willis/craig-willis.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
