@@ -20,7 +20,7 @@ From 2018 until my departure from NCSA in 2020, I served as the UIUC PI of the N
 <hr/>
 <img align="left" src="/images/terra.png" alt="TERRA-REF" style="width: 20px; margin-right: 10px"/> <b style="font-size: 14pt; vertical-align: middle">TERRA-REF</b>
 
-From 2016 - 2019, I worked as a research programmer on the ARPA-E funded [Transportation Energy Resources from Renewable Agriculture Phenotyping Reference Platform  or [TERRA-REF](https://www.terraref.org/) project. I worked on the computational pipeline and data access infrastructure as well as metadata and information organization aspects of the project.
+From 2016 - 2019, I worked as a research programmer on the ARPA-E funded Transportation Energy Resources from Renewable Agriculture Phenotyping Reference Platform  or [TERRA-REF](https://www.terraref.org/) project. I worked on the computational pipeline and data access infrastructure as well as metadata and information organization aspects of the project.
 
 <hr/>
 <img align="left" src="/images/nds.png" alt="NDS" style="width: 20px; margin-right: 10px"/> <b style="font-size: 14pt; vertical-align: middle">National Data Service (NDS)</b>
@@ -34,8 +34,5 @@ I worked as a research assistant on the NSF-funded III project (Award [1217279](
 
 <hr/>
 <img align="left" src="/images/htrc.jpg" alt="HTRC" style="width: 20px; margin-right: 10px"/> <b style="font-size: 14pt; vertical-align: middle">Hathi Trust Research Center</b>
-
-<hr/>
-<img align="left" src="/images/hive.jpg" alt="HIVE" style="width: 20px; margin-right: 10px"/> <b style="font-size: 14pt; vertical-align: middle">Helping Interdisciplinary Vocabulary Engineering (HIVE)</b>
 
 The HathiTrust Research Center (HTRC) enables computational access for nonprofit and educational users to published works in the public domain and, in the future, on limited terms to works in-copyright from the HathiTrust. The HTRC is a collaborative research center launched jointly by Indiana University and the University of Illinois, along with the HathiTrust Digital Library, to help meet the technical challenges of dealing with massive amounts of digital text that researchers face by developing cutting-edge software tools and cyberinfrastructure to enable advanced computational access to the growing digital record of human knowledge.
