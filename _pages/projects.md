@@ -1,11 +1,11 @@
 ---
-permalink: /projects
+permalink: /projects/
 title: Projects
 excerpt: "Projects"
 author_profile: true
 ---
 
-For the past 10 years, I've worked primarily as a research assisstant or research programmer on grant-funded research and research infrastructure projets. This page presents a summary of the grant-funded projects that I've been involved over the years.
+For the past 10 years, I've worked primarily as a research assisstant or research programmer on grant-funded research and research infrastructure projects. This page presents a summary of the grant-funded projects that I've been involved over the years.
 
 <hr/>
 <img align="left" src="/images/wholetale.png" alt="Whole Tale" style="width: 20px; margin-right: 10px"/> <b style="font-size: 14pt; vertical-align: middle">Whole Tale</b>
